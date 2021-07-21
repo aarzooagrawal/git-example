@@ -1,1 +1,3 @@
 Hi, this is an example of local repositry in git.
+Have a nice day!
+Good bye.
